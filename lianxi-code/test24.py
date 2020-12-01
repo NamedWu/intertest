@@ -45,6 +45,7 @@ class phone(object):
 tom = phone()
 print(tom.brand)
 tom.brand = 'iphone'  # 修改类中的属性
+print(tom.brand)
 
 
 # 定义一个类和属性
