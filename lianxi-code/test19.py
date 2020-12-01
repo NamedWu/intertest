@@ -74,6 +74,7 @@ def show_books():
 
 show_books()
 print("111")
+print("222")
 
 
 # 问题：编写借书还书函数
